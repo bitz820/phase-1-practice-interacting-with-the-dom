@@ -8,7 +8,7 @@ window.addEventListener("DOMContentLoaded", () => {
     const ul = document.querySelector('ul.likes')
     const pause = document.querySelector('button#pause')
     const submit = document.querySelector('button#submit')
-    const likesObj = {};
+    const likesObj = {}
 
 
     let second = 0;
